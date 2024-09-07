@@ -1,0 +1,6 @@
+Trace File,Cache Size (KB),Block Size (Bytes),Associativity,Hit Rate (%),Miss Rate (%)
+gcc.trace,1024,4,4,93.8356,6.16445
+gzip.trace,1024,4,4,66.7055,33.2945
+mcf.trace,1024,4,4,1.03241,98.9676
+swim.trace,1024,4,4,92.6225,7.37748
+twolf.trace,1024,4,4,98.7615,1.23855
